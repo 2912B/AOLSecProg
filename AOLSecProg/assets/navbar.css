@@ -1,0 +1,39 @@
+.body {
+  background: white;
+}
+
+.navbar {
+  background: white;
+  padding: 0.6rem 2%;
+  border-bottom: 1px solid black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: black;
+  font-weight: 500;
+}
+
+.navbar .kiri {
+  display: flex;
+  gap: 1.3rem;
+  font-size: 1.6rem;
+}
+
+.navbar .kanan {
+  justify-content: flex-end;
+  display: flex;
+  margin-right: 1rem;
+  gap: 1.4rem;
+  font-size: 1.4rem;
+}
+
+.navbar .kanan .register {
+  color: white;
+  background: black;
+  padding: 0.1rem 1rem;
+  border-radius: 1rem;
+}
