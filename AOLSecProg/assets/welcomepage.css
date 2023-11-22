@@ -1,0 +1,14 @@
+h1 {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  margin-top: 12rem;
+  font-size: 5rem;
+}
+
+p {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.5rem;
+}
